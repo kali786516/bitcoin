@@ -1,5 +1,6 @@
-**Rest API for BitCoin Price analysis**
-BitCoin Rest API is developed using Scala(SPRING),Spark(ARIMA algorithm).
+**Rest API for BitCoin Price analysis** 
+
+* BitCoin Rest API is developed using Scala(SPRING),Spark(ARIMA algorithm).
 ---
 
 ## Introduction
