@@ -38,7 +38,7 @@
 
 6. Click on **Show trading decision** button which displays following page.
       ![picture](src/main/resources/images/trading_decision_form.png)
-   Give the number of days to consider to train the ARIMA(Auto Regression Integrated Moving Average) model to give the trading decision.
+   Give the number of days to consider to train the **ARIMA(Auto Regression Integrated Moving Average)** model to give the trading decision.
    Following are the sample output.
       ![picture](src/main/resources/images/hold.png)
       ![picture](src/main/resources/images/buy.png)
