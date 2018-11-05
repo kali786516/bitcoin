@@ -14,8 +14,6 @@
 
 ## Usage
 
-Next, you’ll add a new file to this repository.
-
 1. Clone the project.
 2. Run the main class of SpringBootRestApplication in package 'com.tookitaki.assignment.bitcoin'.
 3. Click on the following url to open the home page of the Rest API which looks like the following.
