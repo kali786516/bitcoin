@@ -1,12 +1,12 @@
 **Rest API for BitCoin Price analysis** 
 
-* BitCoin Rest API is developed using Scala(SPRING),Spark(ARIMA algorithm).
+* BitCoin Rest API is developed using Scala(SPRING) and Spark(ARIMA algorithm) for prediction.
 ---
 
 ## Introduction
 
  BitCoin Rest API provides user to achieve following:-
- * See the price movement for last week,month,year and for any custom date
+ * See the price movement for last week, month, year and for any custom date
  * See movement of rolling average price between any two custom dates.
  * Suggest the trading decision to be followed.
 
@@ -47,7 +47,7 @@
 
 ## References
 
-Following links are used as references
+Following links are used as references:
 
 1. [https://github.com/sryza/spark-timeseries](https://github.com/sryza/spark-timeseries).
 2. [http://blog.cloudera.com/blog/2015/12/spark-ts-a-new-library-for-analyzing-time-series-data-with-apache-spark/](http://blog.cloudera.com/blog/2015/12/spark-ts-a-new-library-for-analyzing-time-series-data-with-apache-spark/).
