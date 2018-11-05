@@ -5,8 +5,10 @@
 
 ## Introduction
 
- BitCoin Rest API provides user to see the price movement for last week,month,year and for any custom date and also 
-  gives flexibility to see movement of rolling average price between any two custom dates.
+ BitCoin Rest API provides user to achieve following:-
+ * See the price movement for last week,month,year and for any custom date
+ * See movement of rolling average price between any two custom dates.
+ * Suggest the trading decision to be followed.
 
 ---
 
